@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa861369-3c16-4bc6-b6f4-f7bb49857367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BYTE_ME_APP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assumption_File_A4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ByteMeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerSerialize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnterPanels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnterToByteMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrderPlacementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowMenu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/WJ5S8GUZ/CustomerTest[1].java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2o17WF713tsMYD1QI9gGbQeqzwy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ByteMe.executor": "Run",
+    "Application.ByteMeTest.executor": "Run",
+    "Application.EnterPanels.executor": "Run",
+    "Application.EnterToByteMe.executor": "Run",
+    "Application.ScreenNavigationExample.executor": "Run",
+    "Application.ShowMenu.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ByteMeTest.TestInValidInputAsCustomerID.executor": "Run",
+    "JUnit.ByteMeTest.TestInvalidLoginInput.executor": "Run",
+    "JUnit.ByteMeTest.executor": "Run",
+    "JUnit.OrderPlacementTest.Test_With_Some_Items_Are_Not_Available.executor": "Run",
+    "JUnit.OrderPlacementTest.Testing_All_Items_Are_Available.executor": "Run",
+    "JUnit.OrderPlacementTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ADMIN/OneDrive/Desktop/BYTE_ME_APP/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ByteMeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYTE_ME_APP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ByteMeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteMeTest.TestInValidInputAsCustomerID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYTE_ME_APP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ByteMeTest" />
+      <option name="METHOD_NAME" value="TestInValidInputAsCustomerID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderPlacementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYTE_ME_APP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderPlacementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderPlacementTest.Test_With_Some_Items_Are_Not_Available" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYTE_ME_APP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderPlacementTest" />
+      <option name="METHOD_NAME" value="Test_With_Some_Items_Are_Not_Available" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderPlacementTest.Testing_All_Items_Are_Available" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BYTE_ME_APP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderPlacementTest" />
+      <option name="METHOD_NAME" value="Testing_All_Items_Are_Available" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderPlacementTest" />
+        <item itemvalue="JUnit.OrderPlacementTest.Test_With_Some_Items_Are_Not_Available" />
+        <item itemvalue="JUnit.OrderPlacementTest.Testing_All_Items_Are_Available" />
+        <item itemvalue="JUnit.ByteMeTest" />
+        <item itemvalue="JUnit.ByteMeTest.TestInValidInputAsCustomerID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa861369-3c16-4bc6-b6f4-f7bb49857367" name="Changes" comment="" />
+      <created>1730025259936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730025259936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BYTE_ME_APP$ByteMeTest_TestInvalidLoginInput.ic" NAME="ByteMeTest.TestInvalidLoginInput Coverage Results" MODIFIED="1732435703643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/BYTE_ME_APP$ByteMeTest.ic" NAME="ByteMeTest Coverage Results" MODIFIED="1732427342888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

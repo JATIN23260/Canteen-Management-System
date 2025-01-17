@@ -1,0 +1,12 @@
+
+Assumptions List
+1 -> Here instead of making Password and UserName This system takes UserID as Password and stores user as customer objects
+2 -> You can Add multiple items and show all changes to GUI as well
+3 -> Every data is stored in CustomerSerialize file
+4 -> TO see every changes you made by admin in Menu and Pending Orders
+5 -> To see their changes on GUI there is a button to Refresh
+6 -> Click that button after changes to see them
+7 -> Main : To start the functioning of code just go to
+8 -> EnterToByteMe file and click on run button
+9 -> Then select and follow every steps to make your work
+
